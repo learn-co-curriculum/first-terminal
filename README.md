@@ -6,7 +6,7 @@ format: video
 
 # How to Open a Terminal
 
-<video controls width="1000">
+<video controls width="100%">
   <source src="http://flatiron-videos.s3.amazonaws.com/ironboard/how-to-open-terminal.mp4" type="video/mp4" >
     Your browser does not support the video tag. We recommend using Chrome
 </video>
