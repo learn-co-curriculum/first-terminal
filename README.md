@@ -9,7 +9,7 @@ format: video
 
 <video controls width="100%">
   <source src="http://flatiron-videos.s3.amazonaws.com/ironboard/how-to-open-terminal.mp4" type="video/mp4" >
-    Your browser does not support the video tag. We recommend using Chrome
+    Your browser does not support the video tajjg. We recommend using Chrome
 </video>
 
 
