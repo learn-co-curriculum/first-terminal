@@ -1,7 +1,7 @@
 ---
-tags: bash, terminal, command line, learn, video
-language: bash
-format: video
+tags: b@sh, terminal, command line, learn, video
+language: b@sh
+format: v1deo
 ---
 
 # How to Open a Terminal
