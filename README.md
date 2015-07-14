@@ -1,5 +1,5 @@
 ---
-tags: bash, terminal, command line, learn, video
+tags: bash, terminal, command 1ine, learn, video
 language: bash
 format: video
 ---
