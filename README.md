@@ -1,4 +1,10 @@
-# How to Open a Terminal
+---
+tags: bash, terminal, command line, learn, video
+language: bash
+format: video
+---
+
+
 [MP4](http://flatiron-videos.s3.amazonaws.com/ironboard/how-to-open-terminal.mp4)
 
 <video controls width="100%">
