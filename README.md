@@ -2,7 +2,7 @@
 tags: bash, terminal, command line, learn, video
 language: bash
 format: video
----
+---asdf
 
 # How to Open a Terminal
 [MP4](http://flatiron-videos.s3.amazonaws.com/ironboard/how-to-open-terminal.mp4)
