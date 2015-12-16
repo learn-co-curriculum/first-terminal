@@ -6,7 +6,7 @@
 
 ## Topics Covered
 
-1. What's a terminal?
+1. What's a Terminal?
 2. How to Open via Spotlight
 3. How to Open from Finder and Applications
 4. How to Dock Your Terminal for Easy Access
