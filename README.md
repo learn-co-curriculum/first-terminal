@@ -12,3 +12,5 @@
 4. How to Dock Your Terminal for Easy Access
 
 <a href='https://learn.co/lessons/first-terminal' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+For those who use keyboard shortcuts, you could also use COMMAND + SPACE BAR and type "terminal", or just "term".  Terminal should be the first result that shows up.  That's usually the fastest way for me.
