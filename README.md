@@ -14,4 +14,4 @@
 
 *Note: For those who use keyboard shortcuts, you could also use COMMAND + SPACE BAR and type "terminal".*
 
-<a href='https://learn.co/lessons/first-terminal' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-terminal' title='How to Open a Terminal'>How to Open a Terminal</a> on Learn.co and start learning to code for free.</p>
